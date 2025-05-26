@@ -9,3 +9,7 @@ will continue later. i stopped at where i ran this:
 npx hardhat run scripts/deploy.js --network bsctestnet
 ```
 trying to fix this since it is not connecting to bsc testnet.
+
+having tested some other rpc, i had to settle for this one `https://bsc-testnet.public.blastapi.io`. anyways, i am gonn' fund my testnet bal then get back to work. funded the wallet with 0.3bnb, we should be good to go.
+
+!(tuts\deployjs-firstrun.png)

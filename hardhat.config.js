@@ -6,7 +6,7 @@ module.exports = {
   solidity: "0.8.28",
   networks: {
     bsctestnet: {
-      url: "https://bsc-testnet.public.blastapi.io"
+      url: "https://bsc-testnet.public.blastapi.io",
       accounts: [process.env.PRIVATE_KEY]
     },
   },
