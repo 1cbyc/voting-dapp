@@ -4,3 +4,8 @@ i had some errors when setting up ethers library. but i fixed it, i was mixing t
 
 since i am done with writing my voting contract and the deployment script, i am trying to setup for bsc, since i have more bnb in hand. but let me work with testnet first. so, would edit the hardhard.config.js file for that.
 
+will continue later. i stopped at where i ran this:
+```bash
+npx hardhat run scripts/deploy.js --network bsctestnet
+```
+trying to fix this since it is not connecting to bsc testnet.
