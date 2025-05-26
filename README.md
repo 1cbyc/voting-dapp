@@ -13,3 +13,7 @@ trying to fix this since it is not connecting to bsc testnet.
 having tested some other rpc, i had to settle for this one `https://bsc-testnet.public.blastapi.io`. anyways, i am gonn' fund my testnet bal then get back to work. funded the wallet with 0.3bnb, we should be good to go.
 
 !(tuts\deployjs-firstrun.png)
+
+oh! by the way, this created the contract i needed to work: `0xB799D5c47B3456368F7eB7bC2DdddC3bef031cAb`, so i would implement it for the voting mechanism. and update overtime. 
+
+done now! 
