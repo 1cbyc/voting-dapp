@@ -1,3 +1,5 @@
+> **Licensing update (31 October 2026):** The current policy requires prior written permission for reuse and a separate agreement for AI training. See [LICENSE](LICENSE). Earlier grants remain valid for previously licensed material; [LICENSE.previous](LICENSE.previous) preserves those terms. Any older license descriptions below describe the previous policy. Contact [ei@nsisong.com](mailto:ei@nsisong.com).
+
 # voting-dapp
 
 i had some errors when setting up ethers library. but i fixed it, i was mixing the nomic labs and nomics foundation plugins for ethers v5 and ethers v6, since it has been long i wrote this.
@@ -16,4 +18,4 @@ having tested some other rpc, i had to settle for this one `https://bsc-testnet.
 
 oh! by the way, this created the contract i needed to work: `0xB799D5c47B3456368F7eB7bC2DdddC3bef031cAb`, so i would implement it for the voting mechanism. and update overtime. 
 
-done now! 
+done now!
